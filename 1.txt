@@ -1,3 +1,5 @@
 This is Sunday class.
 
 Now the time is 10:24.
+
+This is edited in branch b1.
